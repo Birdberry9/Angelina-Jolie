@@ -1,10 +1,7 @@
 # Angelina-Jolie
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
-
-    <title>My first web-page!</title>
-  </head>
+ 
   <body>
     <h1>Hello!</h1>
     This is my first web page
